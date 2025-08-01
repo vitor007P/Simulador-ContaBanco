@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido para o desafio **"Conta Banco"** da plataforma [DIO (Digital Innovation One)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe).
+Este projeto foi desenvolvido para o desafio **"Conta Banco"** da plataforma [DIO - Trilha Java Básico)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe).
 
 O objetivo do projeto é criar uma aplicação Java simples que roda no terminal e simula a abertura de uma conta bancária. O programa solicita ao usuário as seguintes informações:
 
